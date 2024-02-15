@@ -7,7 +7,7 @@ button.yellow  {background-color: yellow;
 
                }
                
-button.universal {font-size: 28px;
-                  font-family: Helvetica, Times New Roman, sans-serif;
+button {font-size: 28px;
+        font-family: Helvetica, Times New Roman, sans-serif;
 
-                 }               
+       }               
